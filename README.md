@@ -20,18 +20,3 @@ This project is a Netflix-style movie recommendation system built with machine l
 | Surprise         | Collaborative filtering       |
 | Matplotlib, Seaborn | Data visualization         |
 | Jupyter Notebook | Exploratory data analysis     |
-
-## 🗂️ Dataset
-
-We used the [MovieLens dataset](https://grouplens.org/datasets/movielens/)—a popular benchmark in recommendation systems research. It includes:
-- User ratings
-- Movie metadata (title, genre, etc.)
-- Timestamps for rating activity
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/netflix-recommender.git
-cd netflix-recommender
