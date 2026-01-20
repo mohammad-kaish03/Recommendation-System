@@ -98,6 +98,8 @@ Black Mirror
 
 Input: Money Heist
 Output Recommendations:
+<img width="1740" height="807" alt="Screenshot 2026-01-20 210059" src="https://github.com/user-attachments/assets/57d463a0-4e60-46c2-904c-e7d5d583e1b8" />
+
 
 Narcos
 
